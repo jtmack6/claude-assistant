@@ -1,0 +1,10 @@
+{
+	"id": "claude-assistant",
+	"name": "Claude Assistant",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Integrate Claude AI assistant into Obsidian for enhanced note-taking and research",
+	"author": "Your Name",
+	"authorUrl": "https://your-website.com",
+	"isDesktopOnly": true
+}

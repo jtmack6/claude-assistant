@@ -1,0 +1,54 @@
+/* Claude Plugin Styles */
+
+.claude-responses {
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+.claude-user-message {
+  background-color: var(--background-secondary);
+  border-radius: 8px;
+  padding: 8px 12px;
+  margin-bottom: 12px;
+}
+
+.claude-response-message {
+  background-color: var(--background-primary-alt);
+  border-radius: 8px;
+  padding: 8px 12px;
+  margin-bottom: 12px;
+}
+
+.claude-input {
+  width: 100%;
+  border-radius: 4px;
+  padding: 8px;
+  background-color: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
+}
+
+.claude-submit-btn {
+  background-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border-radius: 4px;
+  padding: 6px 12px;
+  cursor: pointer;
+  border: none;
+}
+
+.claude-submit-btn:hover {
+  background-color: var(--interactive-accent-hover);
+}
+
+.claude-loading {
+  font-style: italic;
+  color: var(--text-muted);
+  margin-bottom: 12px;
+}
+
+/* Settings styles */
+.claude-settings-info {
+  font-size: 0.85em;
+  color: var(--text-muted);
+  margin-bottom: 1em;
+}
