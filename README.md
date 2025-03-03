@@ -8,7 +8,7 @@ This is a pre-built version of the Claude Assistant plugin that bypasses TypeScr
 
 1. Copy this entire folder (`no-typescript-plugin`) to your Obsidian plugins directory:
    ```
-   /Users/jtmack/Documents/Obsidian_Vault/.obsidian/plugins/claude-assistant/
+   {OBSIDIAN_HOME}/.obsidian/plugins/claude-assistant/
    ```
 
 2. Make sure the folder contains these three files:
